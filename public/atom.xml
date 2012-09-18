@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[The Fragile Web]]></title>
+  <link href="http://meganfolsom.herokuapp.com/atom.xml" rel="self"/>
+  <link href="http://meganfolsom.herokuapp.com/"/>
+  <updated>2012-09-18T16:31:34+01:00</updated>
+  <id>http://meganfolsom.herokuapp.com/</id>
+  <author>
+    <name><![CDATA[Megan Folsom]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Hello World]]></title>
+    <link href="http://meganfolsom.herokuapp.com/blog/2012/09/18/hello-world/"/>
+    <updated>2012-09-18T16:24:00+01:00</updated>
+    <id>http://meganfolsom.herokuapp.com/blog/2012/09/18/hello-world</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+</feed>
