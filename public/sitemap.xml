@@ -2,14 +2,22 @@
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
         <loc>http://meganfolsom.herokuapp.com/blog/2012/09/18/hello-world/</loc>
-        <lastmod>2012-09-18T16:24:22+01:00</lastmod>
+        <lastmod>2012-09-18T19:57:45+01:00</lastmod>
+    </url>
+    <url>
+        <loc>http://meganfolsom.herokuapp.com/blog/about/</loc>
+        <lastmod>2012-09-19T14:22:18+01:00</lastmod>
     </url>
     <url>
         <loc>http://meganfolsom.herokuapp.com/blog/archives/</loc>
-        <lastmod>2012-09-18T16:24:22+01:00</lastmod>
+        <lastmod>2012-09-18T20:06:00+01:00</lastmod>
+    </url>
+    <url>
+        <loc>http://meganfolsom.herokuapp.com/conference-talks/</loc>
+        <lastmod>2012-09-19T13:25:33+01:00</lastmod>
     </url>
     <url>
         <loc>http://meganfolsom.herokuapp.com/</loc>
-        <lastmod>2012-09-18T16:24:22+01:00</lastmod>
+        <lastmod>2012-09-18T19:57:45+01:00</lastmod>
     </url>
 </urlset>
